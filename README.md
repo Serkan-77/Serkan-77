@@ -8,4 +8,8 @@
 <a href="https://github.com/In1t0S/VM-Writeups/tree/main/HackMyvm-Writeups">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://hackmyvm.eu/profile/?user=init_0">
+  <img src="https://img.shields.io/badge/HackMyVM-1E90FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</a>
+
 
