@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hello, I'm Serkan 
+<a href="https://www.linkedin.com/in/serkan-efe-erisev/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&stlye=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **Serkan-77/Serkan-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
