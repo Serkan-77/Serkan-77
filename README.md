@@ -15,4 +15,6 @@ I have strong written and verbal communication skills, effective time management
 ## Values 
 I hold core values in cybersecurity that include protecting organizations, safeguarding individuals, adhering to laws, and ensuring equitable access to resources.
 
+
+##
 My strengths in strong written and verbal communication, effective time management, and programming skills equip me to meet the security goals of an organization. I am able to articulate complex cybersecurity concepts clearly and collaborate with diverse teams to address security challenges. My project work experience further enhances my ability to tackle issues efficiently in dynamic environments. Aligned with these strengths, my core values—protecting organizations, safeguarding individuals, adhering to laws, and ensuring equitable access to resources—drive my commitment to contribute positively to an organization’s security posture. Together, these attributes position me as a valuable asset in the field of cybersecurity.
