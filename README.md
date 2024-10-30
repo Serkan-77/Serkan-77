@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Serkan Efe</h1>
 <h3 align="center">A Computer Engineering Student in Eastern Mediterranean University</h3>
 
-- 🖥️ I’m currently working on **Cyber Security Field.**
+- 🖥️ I’m currently working on **Cyber Security & AI Fields.**
 
-- 👾 I am interested in game development as a hobby **Game Development as a hobby.**
+- 👾 I am interested in **Game Development as a hobby.**
 
 - 💬 Ask me about **Everything, I love to discuss about all the topics about Engineering Field.**
 
