@@ -20,11 +20,6 @@ I'm a passionate **Computer Engineering student** at **Eastern Mediterranean Uni
 - A **Personal Cybersecurity Toolkit** in Python
 - Full-stack **Dashboard Web App** for smart label management
 
-## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile) *(Replace with your actual link)*
-- [HackMyVM](https://hackmyvm.eu/) Writeups: `init_0`
-- Check out my [GitHub repositories](https://github.com/yourusername) for more!
-
 ---
 
 > “Stay curious, keep building.”
