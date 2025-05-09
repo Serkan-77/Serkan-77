@@ -14,12 +14,6 @@ I'm a passionate **Computer Engineering student** at **Eastern Mediterranean Uni
 - Developing games with **Unity** and **C#**
 - Building side tools in **Python** for system automation and network security
 
-## 📌 Current Projects
-- A **To-Do List Desktop App** using C# and SQLite
-- A **Quiz Game** in Unity
-- A **Personal Cybersecurity Toolkit** in Python
-- Full-stack **Dashboard Web App** for smart label management
-
 ---
 
 > “Stay curious, keep building.”
