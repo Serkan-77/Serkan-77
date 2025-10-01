@@ -5,14 +5,7 @@ I'm a passionate **Computer Engineering student** at **Eastern Mediterranean Uni
 - **Cybersecurity**: Practicing ethical hacking, reverse engineering, and system hardening.
 - **Artificial Intelligence**: Exploring machine learning and neural networks.
 - **Game Development**: Creating 2D & 3D games using Unity and C#, blending creativity with technical skill.
-- **Full-Stack Development**: Currently building full-stack applications using **C#**, **.NET**, and **SQL** — working on both frontend and backend systems.
-
-## 🧠 What I’m Learning & Building
-- Implementing secure APIs using **.NET Core**
-- Designing relational databases with **SQL/SQLite**
-- Creating interactive UIs with **WinForms** and web frameworks
-- Developing games with **Unity** and **C#**
-- Building side tools in **Python** for system automation and network security
+- **Full-Stack Development**: Currently building full-stack applications using **C#**, **.NET**, and **SQL** — working on both frontend and backend system
 
 ---
 
