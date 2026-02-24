@@ -4,7 +4,7 @@ Computer Engineering (Senior) • Cybersecurity & IT • AI/ML Projects
 📍 Cyprus / TR • 📧 destekserkan066@hotmail.com
 
 ## Live CV
-- 🌐 CV Website: https://KULLANICIADIN.github.io/cv/
+- 🌐 CV Website: https://serkan-77.github.io/CV/
 
 ## About Me
 I’m a senior Computer Engineering student focusing on **Cybersecurity (SOC / Pentest)** and **IT systems**.  
