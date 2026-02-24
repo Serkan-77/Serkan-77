@@ -38,7 +38,7 @@ I also build software projects with Python, Java, JS/Node, React/React Native an
 - Udemy: Arduino Fundamentals (2022)
 
 ## Projects
-- GitHub Projects: https://github.com/KULLANICIADIN
+- GitHub Projects: https://github.com/Serkan-77
 - Cybersecurity Writeups (LinkedIn / HackMyVm)
 - Pwnagotchi (Raspberry Pi, Python, Wi-Fi Security)
 - Python Keylogger (Educational)
@@ -50,5 +50,5 @@ I also build software projects with Python, Java, JS/Node, React/React Native an
 - Web-based Medicine Tracking System
 
 ## Links
-- GitHub: https://github.com/KULLANICIADIN
-- LinkedIn: https://www.linkedin.com/in/LINKIN/
+- GitHub: https://github.com/Serkan-77
+- LinkedIn: https://www.linkedin.com/in/serkan-efe-erisev/
