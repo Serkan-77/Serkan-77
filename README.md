@@ -52,3 +52,6 @@ I also build software projects with Python, Java, JS/Node, React/React Native an
 ## Links
 - GitHub: https://github.com/Serkan-77
 - LinkedIn: https://www.linkedin.com/in/serkan-efe-erisev/
+
+## This is New !!
+- GitHub: https://github.com/Serkan-77/Face_AI_Attendance_System
