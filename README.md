@@ -55,3 +55,4 @@ I also build software projects with Python, Java, JS/Node, React/React Native an
 
 ## This is New !!
 - GitHub: https://github.com/Serkan-77/Face_AI_Attendance_System
+- GitHub: https://github.com/Serkan-77/QR_Attendance_System
