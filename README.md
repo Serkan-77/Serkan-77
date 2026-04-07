@@ -9,11 +9,10 @@
 
 <p>
   <b>Senior Computer Engineering Student</b><br/>
-  Cybersecurity • AI/ML • Full Stack Developer
+  Cybersecurity (SOC / Pentest) • IT Systems • AI/ML • Full Stack Developer
 </p>
 
 <p>
-  Cybersecurity (SOC / Pentest) • IT Systems • AI/ML<br/>
   Cyprus / Turkey<br/>
   destekserkan066@hotmail.com
 </p>
