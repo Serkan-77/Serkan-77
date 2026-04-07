@@ -1,4 +1,16 @@
-# 👨‍💻 Serkan Efe Erisev  
+# Serkan Efe Erisev  
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cybersecurity%20%7C%20AI%20Engineer&fontSize=35&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <b>Senior Computer Engineering Student</b>  
+  <br/>
+  Cybersecurity • AI/ML • Full Stack Developer  
+</p>
+
+---
 
 🎓 **Senior Computer Engineering Student**  
 🔐 Cybersecurity (SOC / Pentest) • IT Systems • AI/ML  
@@ -14,66 +26,66 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a senior Computer Engineering student with a strong focus on **Cybersecurity, IT infrastructure, and AI/ML systems**.  
 
 I actively develop **real-world projects** in security, networking, and intelligent systems, while continuously improving my skills in **penetration testing, system security, and scalable software architectures**.  
 
 ---
 
-## 🧠 Core Skills
-- 🔐 Cybersecurity (SOC, Pentesting, Network Security)
-- 🌐 Networking & IT Systems  
-- 🐍 Python (Advanced)  
-- 💻 C / C++ / C# (Intermediate)  
-- ☕ Java (Intermediate)  
-- ⚛️ React / React Native / Node.js  
-- 🗄️ SQL & NoSQL Databases  
-- 🎮 Unity (2D / 3D Development)
+## Core Skills
+- Cybersecurity (SOC, Pentesting, Network Security)
+- Networking & IT Systems  
+- Python (Advanced)  
+- C / C++ / C# (Intermediate)  
+- Java (Intermediate)  
+- React / React Native / Node.js  
+- SQL & NoSQL Databases  
+- Unity (2D / 3D Development)
 
 ---
 
-## 🌍 Languages
+## Languages
 - 🇹🇷 Turkish — Native  
 - 🇬🇧 English — Advanced  
 - 🇩🇪 German — Beginner  
 
 ---
 
-## 💼 Experience
+## Experience
 
-**📌 TURKCELL (Arday Bilişim)**  
+** TURKCELL (Arday Bilişim)**  
 *Database Solution Engineer / Consultant*  
-🗓️ Dec 2021 – Apr 2022  
+ Dec 2021 – Apr 2022  
 
-**📌 PulseTRonics**  
+**PulseTRonics**  
 *Systems Engineering Intern*  
-🗓️ Jul 2023 – Sep 2023  
+Jul 2023 – Sep 2023  
 
-**📌 Just Kıbrıs**  
+**Just Kıbrıs**  
 *Full Stack Developer & Debugging Engineer*  
-🗓️ Apr 2024 – Jun 2024  
+Apr 2024 – Jun 2024  
 
-**📌 Ekinoks Yazılım**  
+**Ekinoks Yazılım**  
 *AI & ML Engineer*  
-🗓️ Jul 2025 – Aug 2025  
+Jul 2025 – Aug 2025  
 
 ---
 
-## 🏆 Certifications
-- 🎓 Cisco Junior Cybersecurity Analyst (2025)  
-- 🎓 Cisco Network Technician (2025)  
-- 🛡️ TryHackMe: Intro to Cybersecurity (2024)  
-- 🛡️ TryHackMe: Cybersecurity 101 (2024)  
-- 💻 Udemy: Ethical Hacker (2023) + Level 2  
-- 🐍 Udemy: Python (2024–2025)  
-- 🔌 Udemy: Arduino Fundamentals (2022)  
+## Certifications
+- Cisco Junior Cybersecurity Analyst (2025)  
+- Cisco Network Technician (2025)  
+- TryHackMe: Intro to Cybersecurity (2024)  
+- TryHackMe: Cybersecurity 101 (2024)  
+- Udemy: Ethical Hacker (2023) + Level 2  
+- Udemy: Python (2024–2025)  
+- Udemy: Arduino Fundamentals (2022)  
 
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
 
-### 🔐 Cybersecurity Projects
+### Cybersecurity Projects
 - Pwnagotchi (Raspberry Pi, Python, Wi-Fi Security)  
 - Python Keylogger *(Educational)*  
 - MAC/IP Changer (Python)  
@@ -83,25 +95,25 @@ I actively develop **real-world projects** in security, networking, and intellig
 
 ---
 
-### 🤖 AI / Computer Vision
+### AI / Computer Vision
 - Satellite Image Segmentation (U-Net, PyTorch)  
 - Face Recognition Attendance System  
 
 ---
 
-### 📍 Smart Attendance Systems (NEW 🚀)
-- 🔗 Face AI Attendance  
-  👉 https://github.com/Serkan-77/Face_AI_Attendance_System  
+### Smart Attendance Systems (NEW)
+- Face AI Attendance  
+  https://github.com/Serkan-77/Face_AI_Attendance_System  
 
-- 🔗 QR Code Attendance  
-  👉 https://github.com/Serkan-77/QR_Attendance_System  
+- QR Code Attendance  
+  https://github.com/Serkan-77/QR_Attendance_System  
 
-- 🔗 GPS Location Attendance  
-  👉 https://github.com/Serkan-77/Location-Attendace-System  
+- GPS Location Attendance  
+  https://github.com/Serkan-77/Location-Attendace-System  
 
 ---
 
-### 🌐 Web & Mobile Apps
+### Web & Mobile Apps
 - Gym Management System (React / React Native / Node / Firebase)  
 - Web-based Medicine Tracking System  
 - Physiotherapy Portfolio Website (HTML5, CSS3, JS)  
@@ -110,7 +122,7 @@ I actively develop **real-world projects** in security, networking, and intellig
 
 ---
 
-### 🎮 Other Projects
+### Other Projects
 - Unity 2D Game Prototypes  
 - Arduino Radar & Line Follower Robot  
 - To-Do List (C# + SQLite)  
@@ -119,19 +131,11 @@ I actively develop **real-world projects** in security, networking, and intellig
 
 ---
 
-## 📊 GitHub Stats
-
-![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serkan-77&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serkan-77&layout=compact&theme=tokyonight)
-
----
-
-## ⚡ Vision
+## Vision
 > Building secure, scalable, and intelligent systems that combine **Cybersecurity + AI + Real-world applications**
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Serkan-77&color=blue)
