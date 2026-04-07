@@ -132,6 +132,7 @@ https://github.com/Serkan-77/Location-Attendace-System
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/Metasploit-darkred?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite)
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
