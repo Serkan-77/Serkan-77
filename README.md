@@ -153,6 +153,7 @@ https://github.com/Serkan-77/Full_Body_Attendance_System
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
 
 </div>
 
