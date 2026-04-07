@@ -99,7 +99,7 @@ Jul 2025 – Aug 2025
 - Satellite Image Segmentation (U-Net, PyTorch)  
 - Face Recognition Attendance System  
 
-### Smart Attendance Systems (NEW)
+### Smart Attendance Systems (Now Working On)
 **Face AI Attendance**  
 https://github.com/Serkan-77/Face_AI_Attendance_System  
 
