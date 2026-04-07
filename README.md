@@ -3,15 +3,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cybersecurity%20%7C%20AI%20Engineer&fontSize=35&fontColor=ffffff" />
 </p>
-
 <p align="center">
   <b>Senior Computer Engineering Student</b>  
   <br/>
   Cybersecurity • AI/ML • Full Stack Developer  
 </p>
-
 ---
-
 🎓 **Senior Computer Engineering Student**  
 🔐 Cybersecurity (SOC / Pentest) • IT Systems • AI/ML  
 📍 Cyprus / Turkey  
