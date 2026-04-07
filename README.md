@@ -1,5 +1,4 @@
-# Serkan Efe Erisev
-## Senior Computer Engineering Student 
+# Serkan Efe Erisev Senior Computer Engineering Student 
 ---
 
 <p align="center">
