@@ -1,5 +1,6 @@
 # Serkan Efe Erisev  
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cybersecurity%20%7C%20AI%20Engineer&fontSize=35&fontColor=ffffff" />
 </p>
@@ -8,7 +9,9 @@
   <br/>
   Cybersecurity • AI/ML • Full Stack Developer  
 </p>
+
 ---
+
 🎓 **Senior Computer Engineering Student**  
 🔐 Cybersecurity (SOC / Pentest) • IT Systems • AI/ML  
 📍 Cyprus / Turkey  
@@ -125,6 +128,30 @@ Jul 2025 – Aug 2025
 - To-Do List (C# + SQLite)  
 - Calculator App (C#)  
 - Code By Language (Various snippets & mini tools)  
+
+---
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/Metasploit-darkred?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 
 ---
 
