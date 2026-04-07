@@ -1,4 +1,5 @@
-# Serkan Efe Erisev  
+# Serkan Efe Erisev
+## Senior Computer Engineering Student 
 ---
 
 <p align="center">
@@ -12,7 +13,6 @@
 
 ---
 
-🎓 **Senior Computer Engineering Student**  
 🔐 Cybersecurity (SOC / Pentest) • IT Systems • AI/ML  
 📍 Cyprus / Turkey  
 📧 destekserkan066@hotmail.com  
