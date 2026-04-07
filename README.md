@@ -39,15 +39,30 @@ I also build software projects with Python, Java, JS/Node, React/React Native an
 
 ## Projects
 - GitHub Projects: https://github.com/Serkan-77
+
 - Cybersecurity Writeups (LinkedIn / HackMyVm)
 - Pwnagotchi (Raspberry Pi, Python, Wi-Fi Security)
 - Python Keylogger (Educational)
 - MAC/IP Changer (Python)
 - System Info Scanner / Spoofer (Python)
+- Phishing Site and Telegram Automation
+- Secure Chatting App With RSA-DES cryption
+
+- Satellite Image Segmentation (Unet)
+- Face Recognition & Detection Attendance System
+  
+
+- QR Code Attendance System
+- GPS Location Attendance System
+- Phisiotherapy Portfolio Site (HTML5, CSS3, Javascript)
+- CV & Portfolio Site (HTML5, CSS3, Javascript)
+- Hotel Brochure Website
 - Multiple Unity 2D game prototypes
 - Arduino Radar & Line Follower Robot
 - Gym Management System (React/React Native/Node/Firebase)
 - Web-based Medicine Tracking System
+- To-Do List With C# and SQLite
+- Calculator App With C# 
 
 ## Links
 - GitHub: https://github.com/Serkan-77
