@@ -44,6 +44,7 @@ I develop real-world projects in security, networking, and intelligent systems w
 - React / React Native / Node.js  
 - SQL & NoSQL Databases  
 - Unity (2D / 3D Development)
+- HTML5 CSS3 JavaScript
 
 ---
 
@@ -81,7 +82,8 @@ Jul 2025 – Aug 2025
 - TryHackMe: Cybersecurity 101 (2024)  
 - Udemy: Ethical Hacker (2023) + Level 2  
 - Udemy: Python (2024–2025)  
-- Udemy: Arduino Fundamentals (2022)  
+- Udemy: Arduino Fundamentals (2022)
+- Udemy: Web Development from Beginner to Advanced Level (HTML, CSS, Javascript)
 
 ---
 
@@ -154,6 +156,10 @@ https://github.com/Serkan-77/Full_Body_Attendance_System
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
